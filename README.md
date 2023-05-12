@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Here are a few projects I've been working on:
 
-- [Book Management System](https://github.com/ibrahzizo360/book-management-system) - a web app for managing a library of books
+- [Book Management System](https://github.com/ibrahzizo360/BookManagementSystem_React_FastAPI) - a web app for managing a library of books
 
 ## 📫 How to reach me
 * My personal email: ibrahimaziz200000@gmail.com
