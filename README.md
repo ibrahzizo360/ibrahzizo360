@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## Projects
 
 Here are a few projects I've been working on:
 
 - [Book Management System](https://github.com/ibrahzizo360/BookManagementSystem_React_FastAPI) - a web app for managing a library of books
 - [Blog web app](https://github.com/ibrahzizo360/BlogWebApp_MERN) - a blog web app
-
+-->
 ## 📫 How to reach me
 * My personal email: ibrahimaziz200000@gmail.com
 * My whatsapp number: +233507714023
