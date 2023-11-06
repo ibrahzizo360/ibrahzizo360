@@ -23,7 +23,7 @@ Here are a few projects I've been working on:
 - [Blog web app](https://github.com/ibrahzizo360/BlogWebApp_MERN) - a blog web app
 -->
 ## 📫 How to reach me
-* My personal email: ibrahimaziz200000@gmail.com
+* My personal email: ibrahziz10@gmail.com
 * My whatsapp number: +233507714023
 
 
