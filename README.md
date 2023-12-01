@@ -24,7 +24,6 @@ Here are a few projects I've been working on:
 -->
 ## 📫 How to reach me
 * My personal email: ibrahziz10@gmail.com
-* My whatsapp number: +233507714023
 
 
 ## 🌐 Socials:
