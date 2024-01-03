@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Ibrahim Aziz, a passionate software engineer and Technical Writer from Ghana.**
+**I'm Ibrahim Aziz, a passionate full-stack engineer.**
 <!--
 **ibrahzizo360/ibrahzizo360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
